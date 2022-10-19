@@ -23,8 +23,8 @@ Y alguna más...
 
 ## Encuéntrame en:
 [![ArtStation](https://img.shields.io/badge/ArtStation-abelzarco-1877F2?style=for-the-badge&logo=ArtStation&logoColor=white&labelColor=101010)](https://www.artstation.com/abelzarco)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/abeelzarco/?hl=es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abelzarco)
+[![Instagram](https://img.shields.io/badge/Instagram-@abeelzarco-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/abeelzarco/?hl=es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abel_zarco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abelzarco)
 [![Discord](https://img.shields.io/badge/Discord-Zarco-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
 
 ## Algunos trabajos:
