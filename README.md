@@ -51,6 +51,7 @@ Y alguna más...
   </tr>
   <tr>
     <td>
+      
 <a href="https://www.artstation.com/artwork/nEWeKr">
   <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/255/large/abel-zarco-left3.jpg?1644596881" >
 </a>
@@ -87,4 +88,3 @@ Y alguna más...
 </table>
 
                                     ·Puedes apoyar siguiéndome en mis redes y en ArtStation. ¡Gracias!·
-[https://www.artstation.com/abelzarco](https://www.artstation.com/abelzarco)
