@@ -33,34 +33,34 @@ Y alguna más...
   <tr>
     <td>
 <a href="https://www.artstation.com/artwork/wJnJyL">
-  <img src="https://cdna.artstation.com/p/assets/images/images/050/519/842/large/abel-zarco-1b-abelzarco-hellboy01.jpg?1655055786" width="500" height="200" >
+  <img src="https://cdna.artstation.com/p/assets/images/images/050/519/842/large/abel-zarco-1b-abelzarco-hellboy01.jpg?1655055786" >
 </a>
 </td>
     <td>
 <a href="https://www.artstation.com/artwork/wJnJyL">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/839/large/abel-zarco-1b-abelzarco-hellboy03.jpg?1655055783" width="500" height="200">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/839/large/abel-zarco-1b-abelzarco-hellboy03.jpg?1655055783" >
 </a>
 </td>
     <td>
 <a href="https://www.artstation.com/artwork/wJnJyL">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/849/large/abel-zarco-1b-abelzarco-hellboy02.jpg?1655055792" width="500" height="200">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/849/large/abel-zarco-1b-abelzarco-hellboy02.jpg?1655055792" >
 </a>
 </td>
   </tr>
   <tr>
     <td>
 <a href="https://www.artstation.com/artwork/nEWeKr">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/255/large/abel-zarco-left3.jpg?1644596881" width="400" height="180">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/255/large/abel-zarco-left3.jpg?1644596881" >
 </a>
 </td>
 <td>
 <a href="https://www.artstation.com/artwork/nEWeKr">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/277/large/abel-zarco-right3.jpg?1644596908" width="400" height="180">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/277/large/abel-zarco-right3.jpg?1644596908" >
 </a>
 </td>
    <td>
 <a href="https://www.artstation.com/artwork/nEWeKr">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/275/large/abel-zarco-right2.jpg?1644596904" width="400" height="180">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/275/large/abel-zarco-right2.jpg?1644596904" >
 </a>
 </td>
   </tr>
