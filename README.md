@@ -1,20 +1,26 @@
-# Hola, mi nombre Abel Zarco 👋
+# Hola, mi nombre es Abel Zarco 👋
 ### Concept art, 3D Modelling & Texturing.
 
 Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
 Actualmente estudiando arte 3D y programación para videojuegos en CEV Barcelona.
 
 ## Programas:
-[![Maya](https://img.shields.io/badge/Maya-4285F4?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
-[![3Ds Max](https://img.shields.io/badge/3Ds_Max-3DDC84?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
-[![Photoshop](https://img.shields.io/badge/Photoshop-0095D5?style=for-the-badge&logo=Adobe-photoshop&logoColor=white&labelColor=101010)]()
-[![Substance Painter](https://img.shields.io/badge/Substance_painter-3DDC84?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=101010)]()
-<br>
+[![Unity](https://img.shields.io/badge/Unity-1B72BE?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
 [![Unreal](https://img.shields.io/badge/Unreal-FFCA28?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
-[![Unity](https://img.shields.io/badge/Unity-FA7343?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
-</br>
+<br>
+[![Photoshop](https://img.shields.io/badge/Photoshop-0095D5?style=for-the-badge&logo=Adobe-photoshop&logoColor=white&labelColor=101010)]()
 [![After Effects](https://img.shields.io/badge/After_effects-007396?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=101010)]()
 [![Premiere Pro](https://img.shields.io/badge/premiere_pro-F7DF1E?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=101010)]()
+[![Substance Painter](https://img.shields.io/badge/Substance_painter-3DDC84?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=101010)]()
+<br>
+[![Maya](https://img.shields.io/badge/Maya-334455?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
+[![3Ds Max](https://img.shields.io/badge/3Ds_Max-334455?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
+<br>
+
+
+</br>
+
+
 </br>
 Y alguna más...
 
