@@ -1,7 +1,9 @@
 # Hola, mi nombre es Abel Zarco 👋
-                                         · Concept art, 3D Modelling & Texturing ·
-
-· Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
+                                                · Concept art, 3D Modelling & Texturing ·
+                                         
+                                   
+<br/>
+<p align=center>· Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
 · Actualmente estudiando arte 3D y programación para videojuegos en CEV Barcelona.
 
 ## Programas:
@@ -84,4 +86,5 @@ Y alguna más...
 </table>
 </table>
 
-#### Puedes apoyar siguiéndome en mis redes y en ArtStation. ¡Gracias!
+                                    ·Puedes apoyar siguiéndome en mis redes y en ArtStation. ¡Gracias!·
+[https://www.artstation.com/abelzarco](https://www.artstation.com/abelzarco)
