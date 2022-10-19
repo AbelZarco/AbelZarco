@@ -75,12 +75,12 @@ Y alguna más...
 </td>
 <td>
 <a href="https://www.artstation.com/artwork/b50rqk">
-  <img src="https://cdna.artstation.com/p/assets/images/images/045/029/244/large/abel-zarco-abelzarco04.jpg?1641761163" width="400" height="200">
+  <img src="https://cdna.artstation.com/p/assets/images/images/045/029/244/large/abel-zarco-abelzarco04.jpg?1641761163" width="400" height="180">
 </a>
 </td>
    <td>
 <a href="https://www.artstation.com/artwork/lRN0zG">
-  <img src="https://cdna.artstation.com/p/assets/images/images/046/713/940/large/abel-zarco-final2.jpg?1645778684" width="400" height="200">
+  <img src="https://cdna.artstation.com/p/assets/images/images/046/713/940/large/abel-zarco-final2.jpg?1645778684" width="400" height="180">
 </a>
 </td>
   </tr>
