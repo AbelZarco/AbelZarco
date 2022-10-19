@@ -1,13 +1,8 @@
-# Hola, mi nombre el Sergi Lleget 👋
-### Modelador 3D, Escultor, Texturizador
+# Hola, mi nombre Abel Zarco 👋
+### Concept art, 3D Modelling & Texturing.
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
-
-Soy un estudiante del Ciclo Superior de Animación 3D, estoy en el segundo año trabajando en el proyecto final.<br>
-Lo que se me da mejor és, modelar, esculpir y texturizar.
-
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
+Actualmente estudiando arte 3D y programación para videojuegos en CEV Barcelona.
 
 ## Programas:
 [![Maya](https://img.shields.io/badge/Maya-4285F4?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
