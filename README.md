@@ -1,20 +1,22 @@
 # Hola, mi nombre es Abel Zarco 👋
-### Concept art, 3D Modelling & Texturing.
+                                         · Concept art, 3D Modelling & Texturing ·
 
-Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
-Actualmente estudiando arte 3D y programación para videojuegos en CEV Barcelona.
+· Licenciado en Bellas Artes por la Universitat de Barcelona UB.</br>
+· Actualmente estudiando arte 3D y programación para videojuegos en CEV Barcelona.
 
 ## Programas:
 [![Unity](https://img.shields.io/badge/Unity-1B72BE?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
 [![Unreal](https://img.shields.io/badge/Unreal-FFCA28?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
-[![Photoshop](https://img.shields.io/badge/Photoshop-0095D5?style=for-the-badge&logo=Adobe-photoshop&logoColor=white&labelColor=101010)]()
-[![After Effects](https://img.shields.io/badge/After_effects-7E4DD2?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=101010)]()
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-photoshop&logoColor=white&labelColor=101010)]()
+[![After Effects](https://img.shields.io/badge/After_effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=101010)]()
 [![Premiere Pro](https://img.shields.io/badge/premiere_pro-673AB8?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=101010)]()
-[![Substance Painter](https://img.shields.io/badge/Substance_painter-3DDC84?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=101010)]()
+[![Substance Painter](https://img.shields.io/badge/Substance_painter-73BA25?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=101010)]()
 <br>
 [![Maya](https://img.shields.io/badge/Maya-334455?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
 [![3Ds Max](https://img.shields.io/badge/3Ds_Max-334455?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
+<br>
+[![ZBrush](https://img.shields.io/badge/Zbrush-1A1A1A?style=for-the-badge&logo=zotero&logoColor=white&labelColor=101010)]()
 <br>
 <br>
 Y alguna más...
@@ -30,52 +32,52 @@ Y alguna más...
 <table style="width:100%">
   <tr>
     <td>
-<a href="https://youtu.be/MyzZnIR5gC4">
-  <img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/wJnJyL">
+  <img src="https://cdna.artstation.com/p/assets/images/images/050/519/842/large/abel-zarco-1b-abelzarco-hellboy01.jpg?1655055786" width="500" height="200" >
 </a>
 </td>
     <td>
-<a href="https://youtu.be/P6ko_I5GHbs">
-  <img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/wJnJyL">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/839/large/abel-zarco-1b-abelzarco-hellboy03.jpg?1655055783" width="500" height="200">
 </a>
 </td>
     <td>
-<a href="https://youtu.be/hGIzLGgf3Bo">
-  <img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/wJnJyL">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/050/519/849/large/abel-zarco-1b-abelzarco-hellboy02.jpg?1655055792" width="500" height="200">
 </a>
 </td>
   </tr>
   <tr>
     <td>
-<a href="https://youtu.be/BQaxPwZWboA">
-  <img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/nEWeKr">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/255/large/abel-zarco-left3.jpg?1644596881" width="400" height="180">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0">
-  <img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/nEWeKr">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/277/large/abel-zarco-right3.jpg?1644596908" width="400" height="180">
 </a>
 </td>
    <td>
-<a href="https://youtu.be/X5fjEEmXR2s">
-  <img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/nEWeKr">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/046/230/275/large/abel-zarco-right2.jpg?1644596904" width="400" height="180">
 </a>
 </td>
   </tr>
     <tr>
     <td>
-<a href="https://youtu.be/1IpkZhkPC_I">
-  <img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/b50rqk">
+  <img src="https://cdna.artstation.com/p/assets/images/images/045/029/258/large/abel-zarco-abelzarco05.jpg?1641761624" width="400" height="200">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/HH7U3tA0S8M">
-  <img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/b50rqk">
+  <img src="https://cdna.artstation.com/p/assets/images/images/045/029/244/large/abel-zarco-abelzarco04.jpg?1641761163" width="400" height="200">
 </a>
 </td>
    <td>
-<a href="https://youtu.be/vhrus08jp6s">
-  <img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+<a href="https://www.artstation.com/artwork/lRN0zG">
+  <img src="https://cdna.artstation.com/p/assets/images/images/046/713/940/large/abel-zarco-final2.jpg?1645778684" width="400" height="200">
 </a>
 </td>
   </tr>
